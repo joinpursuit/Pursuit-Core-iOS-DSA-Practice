@@ -1,7 +1,7 @@
 ## Big O Practice 
 
-1.
-What is the runtime?
+
+1. What is the runtime?
 
 ```swift 
 func prices(_ arr: [Int]) {
@@ -25,8 +25,7 @@ func prices(_ arr: [Int]) {
 </details> 
 
 
-2.
-What is the runtime?
+2. What is the runtime?
  
 ```swift
 func scrambleString(_ inputString: String) -> String {
@@ -46,8 +45,7 @@ func scrambleString(_ inputString: String) -> String {
 </details> 
 
 
-3.
-What is the runtime?
+3. What is the runtime?
 
 ```swift
 func printPairs(_ nums: [Int]) {
@@ -67,8 +65,7 @@ func printPairs(_ nums: [Int]) {
 </details> 
 
 
-4.
-What is the runtime?
+4. What is the runtime?
 
 ```swift
 func printUnorderedPairs(_ nums: [Int]) {
@@ -87,8 +84,7 @@ func printUnorderedPairs(_ nums: [Int]) {
 
 
  
-5.
-What is the runtime?
+5. What is the runtime?
 
 ```swift
 func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
@@ -109,8 +105,7 @@ func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
 
 
  
-6.
-What is the runtime?
+6. What is the runtime?
 
 ```swift
 func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
@@ -131,8 +126,7 @@ func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
 
 
  
-7.
-What is the runtime?
+7. What is the runtime?
 
 ```swift
 func reverseArray<Element>(_ arr: inout [Element]) where Element: Comparable {
