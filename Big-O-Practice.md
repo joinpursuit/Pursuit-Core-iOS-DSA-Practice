@@ -19,7 +19,9 @@ func prices(_ arr: [Int]) {
 
 <details> 
   <summary>Solution</summary> 
+  
   runtime: O(n)
+  
 </details> 
 
 
@@ -39,7 +41,9 @@ func scrambleString(_ inputString: String) -> String {
 
 <details> 
   <summary>Solution</summary> 
+  
   runtime: O(n)
+  
 </details> 
 
 
@@ -58,7 +62,9 @@ func printPairs(_ nums: [Int]) {
 
 <details> 
   <summary>Solution</summary> 
+  
   runtime: O(n ^ 2)
+  
 </details> 
 
 
