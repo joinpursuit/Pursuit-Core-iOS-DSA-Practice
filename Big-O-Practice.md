@@ -1,9 +1,9 @@
 ## Big O Practice 
 
-<pre>
 1.
 What is the runtime?
 
+```swift 
 func prices(_ arr: [Int]) {
   var sum = 0
   var product = 1
@@ -15,7 +15,7 @@ func prices(_ arr: [Int]) {
   }
   print("sum: \(sum), product: \(product)")
 }
-</pre> 
+```
 
 <details> 
   <summary>Solution</summary> 
@@ -25,10 +25,10 @@ func prices(_ arr: [Int]) {
 </details> 
 
 
-<pre>
 2.
 What is the runtime?
  
+```swift
 func scrambleString(_ inputString: String) -> String {
   let arr = inputString.shuffled()
   var newString = ""
@@ -37,8 +37,7 @@ func scrambleString(_ inputString: String) -> String {
   }
   return newString
 }
-</pre>
-
+```
 <details> 
   <summary>Solution</summary> 
   
@@ -47,10 +46,10 @@ func scrambleString(_ inputString: String) -> String {
 </details> 
 
 
-<pre>
 3.
 What is the runtime?
 
+```swift
 func printPairs(_ nums: [Int]) {
   for i in 0..<nums.count { // n
     for j in 0..<nums.count { // n
@@ -58,7 +57,7 @@ func printPairs(_ nums: [Int]) {
     }
   }
 }
-</pre>
+```
 
 <details> 
   <summary>Solution</summary> 
@@ -68,10 +67,10 @@ func printPairs(_ nums: [Int]) {
 </details> 
 
 
-<pre> 
 4.
 What is the runtime?
 
+```swift
 func printUnorderedPairs(_ nums: [Int]) {
   for i in 0..<nums.count { // n
     for j in i + 1..<nums.count { // n
@@ -79,7 +78,7 @@ func printUnorderedPairs(_ nums: [Int]) {
     }
   }
 }
-</pre>
+```
 
 <details> 
   <summary>Solution</summary> 
@@ -87,10 +86,11 @@ func printUnorderedPairs(_ nums: [Int]) {
 </details> 
 
 
-<pre> 
+ 
 5.
 What is the runtime?
 
+```swift
 func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
   for i in 0..<numsA.count { // n
     for j in 0..<numsB.count { // m
@@ -100,7 +100,7 @@ func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
     }
   }
 }
-</pre> 
+``` 
 
 <details> 
   <summary>Solution</summary> 
@@ -108,10 +108,11 @@ func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
 </details> 
 
 
-<pre> 
+ 
 6.
 What is the runtime?
 
+```swift
 func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
   for i in 0..<numsA.count { // n
     for j in 0..<numsB.count { // m
@@ -121,7 +122,7 @@ func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
     }
   }
 }
-</pre> 
+``` 
 
 <details> 
   <summary>Solution</summary> 
@@ -129,10 +130,11 @@ func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
 </details> 
 
 
-<pre> 
+ 
 7.
 What is the runtime?
 
+```swift
 func reverseArray<Element>(_ arr: inout [Element]) where Element: Comparable {
   for i in 0..<arr.count / 2 { // n
     let other = arr.count - i - 1
@@ -141,7 +143,7 @@ func reverseArray<Element>(_ arr: inout [Element]) where Element: Comparable {
     arr[other] = temp
   }
 }
-</pre> 
+``` 
 
 <details> 
   <summary>Solution</summary> 
