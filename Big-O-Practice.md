@@ -19,11 +19,10 @@ func prices(_ arr: [Int]) {
 
 <details> 
   <summary>Solution</summary> 
-  
   runtime: O(n)
-  
 </details> 
 
+</br> 
 
 2. What is the runtime?
  
@@ -39,11 +38,10 @@ func scrambleString(_ inputString: String) -> String {
 ```
 <details> 
   <summary>Solution</summary> 
-  
   runtime: O(n)
-  
 </details> 
 
+</br> 
 
 3. What is the runtime?
 
@@ -59,11 +57,10 @@ func printPairs(_ nums: [Int]) {
 
 <details> 
   <summary>Solution</summary> 
-  
   runtime: O(n ^ 2)
-  
 </details> 
 
+</br> 
 
 4. What is the runtime?
 
@@ -82,6 +79,7 @@ func printUnorderedPairs(_ nums: [Int]) {
   runtime: O(n ^ 2)
 </details> 
 
+</br> 
 
  
 5. What is the runtime?
@@ -103,7 +101,7 @@ func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
   runtime: O(n * m)
 </details> 
 
-
+</br> 
  
 6. What is the runtime?
 
@@ -124,7 +122,7 @@ func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
   runtime: O(n * m)
 </details> 
 
-
+</br> 
  
 7. What is the runtime?
 
