@@ -142,7 +142,7 @@ func reverseArray<Element>(_ arr: inout [Element]) where Element: Comparable {
   runtime: O(n)
 </details> 
 
-
+</br> 
 
 8. What is the runtime?
 
