@@ -7,10 +7,10 @@
 func prices(_ arr: [Int]) {
   var sum = 0
   var product = 1
-  for i in 0..<arr.count { // n
+  for i in 0..<arr.count { 
     sum += arr[i]
   }
-  for i in 0..<arr.count { // n
+  for i in 0..<arr.count {
     product *= arr[i]
   }
   print("sum: \(sum), product: \(product)")
@@ -30,7 +30,7 @@ func prices(_ arr: [Int]) {
 func scrambleString(_ inputString: String) -> String {
   let arr = inputString.shuffled()
   var newString = ""
-  for char in arr { // n
+  for char in arr { 
     newString += String(char)
   }
   return newString
@@ -47,8 +47,8 @@ func scrambleString(_ inputString: String) -> String {
 
 ```swift
 func printPairs(_ nums: [Int]) {
-  for i in 0..<nums.count { // n
-    for j in 0..<nums.count { // n
+  for i in 0..<nums.count { 
+    for j in 0..<nums.count { 
       print("\(nums[i]), \(nums[j])")
     }
   }
@@ -66,8 +66,8 @@ func printPairs(_ nums: [Int]) {
 
 ```swift
 func printUnorderedPairs(_ nums: [Int]) {
-  for i in 0..<nums.count { // n
-    for j in i + 1..<nums.count { // n
+  for i in 0..<nums.count {
+    for j in i + 1..<nums.count { 
       print("\(nums[i]), \(nums[j]))")
     }
   }
@@ -86,8 +86,8 @@ func printUnorderedPairs(_ nums: [Int]) {
 
 ```swift
 func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
-  for i in 0..<numsA.count { // n
-    for j in 0..<numsB.count { // m
+  for i in 0..<numsA.count { 
+    for j in 0..<numsB.count { 
       if numsA[i] < numsB[j] {
         print("\(numsA[i]), \(numsB[j])")
       }
@@ -107,8 +107,8 @@ func printUnorderedPairArrays(_ numsA: [Int], _ numsB: [Int]) {
 
 ```swift
 func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
-  for i in 0..<numsA.count { // n
-    for j in 0..<numsB.count { // m
+  for i in 0..<numsA.count { 
+    for j in 0..<numsB.count { 
       for k in 0..<10 { // 1
         print("\(numsA[i]), \(numsB[j]), \(k)")
       }
@@ -128,7 +128,7 @@ func printUnorderedPairAgain(_ numsA: [Int], _ numsB: [Int]) {
 
 ```swift
 func reverseArray<Element>(_ arr: inout [Element]) where Element: Comparable {
-  for i in 0..<arr.count / 2 { // n
+  for i in 0..<arr.count / 2 { 
     let other = arr.count - i - 1
     let temp = arr[i]
     arr[i] = arr[other]
