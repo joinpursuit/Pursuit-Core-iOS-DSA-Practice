@@ -141,3 +141,58 @@ func reverseArray<Element>(_ arr: inout [Element]) where Element: Comparable {
   <summary>Solution</summary> 
   runtime: O(n)
 </details> 
+
+
+
+8. What is the runtime?
+
+```swift
+func product(num1: Int, num2: Int) -> Int {
+  var sum = 0
+  var i = 0
+  while i < num2 {
+    sum += num1
+    i += 1
+  }
+  return sum
+}
+```
+
+<details> 
+  <summary>Solution</summary> 
+  runtime: O(n)
+</details> 
+
+</br> 
+
+9. What is the runtime?
+
+```swift
+func power(num1: Int, num2: Int) -> Int {
+  if num2 < 0 { return 0 }
+  else if num2 == 0 { return 1 }
+  return num1 * power(num1: num1, num2: num2 - 1)
+}
+```
+
+<details> 
+  <summary>Solution</summary> 
+  runtime: O(n)
+</details> 
+
+</br> 
+
+10. What is the runtime?
+
+```swift 
+func mod(num1: Int, num2: Int) -> Int {
+  if num2 <= 0 { return -1 }
+  let div = num1 / num2
+  return num1 - div * num2
+}
+```
+
+<details> 
+  <summary>Solution</summary> 
+  runtime: O(1)
+</details> 
