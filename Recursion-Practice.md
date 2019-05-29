@@ -11,7 +11,11 @@ Factorial definition:
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func factorial(num: Int) -> Int {
+  if num == 1 { return 1 } // base case
+  return num * factorial(num: num - 1) // recursive call 
+}
+factorial(num: 5) // 120
  ```
 </details> 
 	
@@ -19,13 +23,20 @@ Factorial definition:
 
 <pre>
 2. Print out all elements in an array recursively
+e.g input = ["Bob", "Amanda", "Henry", "Charles"]
 </pre> 
 
 <details> 
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func printElements(inputArray: [String], index: Int = 0) {
+  if index == inputArray.count { return }
+  print(inputArray[index])
+  printElements(inputArray: inputArray, index: index + 1)
+}
+let input = ["Bob", "Amanda", "Henry", "Charles"]
+printElements(inputArray: input)
  ```
 </details> 
 	
@@ -43,7 +54,19 @@ Sample Output: "Hi there, user!"
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func concatenateElements(inputArray: [String], index: Int = 0, str: String = "") -> String {
+  var str = str
+  if index == inputArray.count { return str }
+  if let _ = inputArray[index].rangeOfCharacter(from: CharacterSet.punctuationCharacters) {
+    str = str.trimmingCharacters(in: CharacterSet.whitespaces)
+    str += inputArray[index]
+  } else {
+    str += inputArray[index].replacingOccurrences(of: " ", with: "") + " "
+  }
+  return concatenateElements(inputArray: inputArray, index: index + 1, str: str)
+}
+let input = ["Hi", "there", ",", " ", "user","!"]
+concatenateElements(inputArray: input)
  ```
 </details> 
 	
@@ -61,7 +84,14 @@ Sample Output: 15
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func sumOfAllElements(inputArray: [Int], index: Int = 0, sum: Int = 0) -> Int {
+  var sum = sum
+  if index == inputArray.count { return sum } // base case
+  sum += inputArray[index]
+  return sum + sumOfAllElements(inputArray: inputArray, index: index + 1) // recursive call
+}
+let input = [3,6,1,3,2]
+sumOfAllElements(inputArray: input)
  ```
 </details> 
 
@@ -79,7 +109,14 @@ Sample Output: 18
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func sumOfEvenElements(inputArray: [Int], index: Int = 0, sum: Int = 0) -> Int {
+  var sum = sum
+  if index == inputArray.count { return sum }
+  if inputArray[index] % 2 == 0 { sum += inputArray[index] }
+  return sum + sumOfEvenElements(inputArray: inputArray, index: index + 1)
+}
+let input = [3,6,1,3,2, 10]
+sumOfEvenElements(inputArray: input)
  ```
 </details> 
 	
@@ -97,7 +134,11 @@ Sample Output: 30
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func multiply(num1: Int, num2: Int) -> Int {
+  if num2 == 1 { return num1 } // base case
+  return num1 + multiply(num1: num1, num2: num2 - 1) // recursive call
+}
+multiply(num1: 5, num2: 6)
  ```
 </details> 
 	
@@ -115,7 +156,11 @@ Sample Output: 81
   <summary>Solution</summary> 
 	
  ```swift 
- 
+ func pow(x: Int, y: Int) -> Int {
+  if y == 0 { return 1 }
+  return x * pow(x: x, y: y - 1)
+}
+pow(x: 3, y: 4)
  ```
 </details> 
  
