@@ -16,8 +16,10 @@ Factorial definition:
 </details> 
 	
 </br>
-	
+
+<pre>
 2. Print out all elements in an array recursively
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
@@ -29,11 +31,13 @@ Factorial definition:
 	
 </br>
 
+<pre> 
 3. Concatenate all the elements in an array of Strings
 
 Sample Input: ["Hi", "there", ",", " ", "user","!"]
 
 Sample Output: "Hi there, user!"
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
@@ -45,11 +49,13 @@ Sample Output: "Hi there, user!"
 	
 </br> 
 
+<pre> 
 4. Find the sum of all the numbers in an array
 
 Sample Input: [3,6,1,3,2]
 
 Sample Output: 15
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
@@ -61,12 +67,13 @@ Sample Output: 15
 
 </br>
 
-
+<pre> 
 5. Find the sum of all the even numbers in an array
 
 Sample Input: [3,6,1,3,2, 10]
 
 Sample Output: 18
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
@@ -78,11 +85,13 @@ Sample Output: 18
 	
 </br>
 
+<pre> 
 6. Multiply two given Ints.  Do not use for/while loops or the * operator.
 
 Sample Input: 5 * 6
 
 Sample Output: 30
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
@@ -94,11 +103,13 @@ Sample Output: 30
 	
 </br>
 
+<pre> 
 7. Write a recursive function pow that takes two numbers x and y as input and returns x to the power y.  Do not use for/while loops
 
 Sample Input: 3 ^ 4
 
 Sample Output: 81
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
