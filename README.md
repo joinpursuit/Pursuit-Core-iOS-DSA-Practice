@@ -5,43 +5,43 @@ Swift DSA practice exercises.
 
 ## Big O Notation 
 
-Time Complexity
-Space Complexity
+Time Complexity  
+Space Complexity  
 
 ## Algorithms 
 
-Breadth-first search 
-Depth-first search
-In-order traversal 
-Post-order traversal 
-Pre-order traversal
+Breadth-first search   
+Depth-first search 
+In-order traversal    
+Post-order traversal   
+Pre-order traversal   
 
 ## Abstract Data Structures 
 
-Node 
-Linked List
-Stack 
-Queue
-Hashmap / HashTable
-General Tree 
-Binary Tree
-Binary Search Tree
-Graph
+Node  
+Linked List   
+Stack   
+Queue   
+Hashmap / HashTable   
+General Tree   
+Binary Tree   
+Binary Search Tree   
+Graph   
 
 ## Searching
 
-Binary Search
+Binary Search   
 
 ## Sorting Algorithms 
 
 #### O(n ^ 2) Runtimes 
-Bubblesort 
-Selections sort 
-Insertion sort
+Bubblesort   
+Selections sort   
+Insertion sort   
 
 #### O(n log n) Runtimes 
-Quicksort 
-Mergesort
+Quicksort   
+Mergesort   
 
 ## Other 
-Recursion: Dynamic Programming (Memoization)
+Recursion: Dynamic Programming (Memoization)    
