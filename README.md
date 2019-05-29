@@ -4,10 +4,12 @@ Swift DSA practice exercises.
 # Topics
 
 ## Big O Notation 
+
 Time Complexity
 Space Complexity
 
 ## Algorithms 
+
 Breadth-first search 
 Depth-first search
 In-order traversal 
@@ -15,6 +17,7 @@ Post-order traversal
 Pre-order traversal
 
 ## Abstract Data Structures 
+
 Node 
 Linked List
 Stack 
@@ -26,6 +29,7 @@ Binary Search Tree
 Graph
 
 ## Searching
+
 Binary Search
 
 ## Sorting Algorithms 
