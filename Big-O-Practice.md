@@ -1,6 +1,6 @@
 ## Big O Practice 
 
-[Big O Lesson](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-06-big-o-notation)
+## [Big O Lesson](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-06-big-o-notation)
 
 
 1. What is the runtime?
