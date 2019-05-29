@@ -163,5 +163,26 @@ Sample Output: 81
 pow(x: 3, y: 4)
  ```
 </details> 
+
+</br> 
+
+<pre>
+8. Write a function that calculates the nth fibonacci number
+ 
+ e.g input n = 6
+ output = 8 
+</pre> 
+
+<details> 
+  <summary>Solution</summary> 
+	
+```swift 	
+func fib(_ num: Int) -> Int {
+  guard num > 2 else { return 1 }
+  return fib(num - 1) + fib(num - 2)
+}
+```
+
+</details> 
  
 	
