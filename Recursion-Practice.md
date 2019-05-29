@@ -1,13 +1,31 @@
 ## Recursion Exercises
 
+<pre> 
 1. Find the factorial of a given number (review)
 Factorial definition:
 
 5 factorial = 5! = 5 * 4 * 3 * 2 * 1 = 120
+</pre> 
+
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
 	
 </br>
 	
 2. Print out all elements in an array recursively
+
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
 	
 </br>
 
@@ -16,6 +34,14 @@ Factorial definition:
 Sample Input: ["Hi", "there", ",", " ", "user","!"]
 
 Sample Output: "Hi there, user!"
+
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
 	
 </br> 
 
@@ -25,6 +51,14 @@ Sample Input: [3,6,1,3,2]
 
 Sample Output: 15
 
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
+
 </br>
 
 
@@ -33,6 +67,14 @@ Sample Output: 15
 Sample Input: [3,6,1,3,2, 10]
 
 Sample Output: 18
+
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
 	
 </br>
 
@@ -41,6 +83,14 @@ Sample Output: 18
 Sample Input: 5 * 6
 
 Sample Output: 30
+
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
 	
 </br>
 
@@ -49,5 +99,13 @@ Sample Output: 30
 Sample Input: 3 ^ 4
 
 Sample Output: 81
+
+<details> 
+  <summary>Solution</summary> 
+	
+ ```swift 
+ 
+ ```
+</details> 
  
 	
