@@ -11,7 +11,7 @@ Space Complexity
 ## Algorithms 
 
 Breadth-first search   
-Depth-first search 
+Depth-first search   
 In-order traversal    
 Post-order traversal   
 Pre-order traversal   
