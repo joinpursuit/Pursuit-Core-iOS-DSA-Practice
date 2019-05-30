@@ -58,7 +58,7 @@ print(threeNode)
 <details> 
   <summary>Solution</summary> 
   
-  ```swift
+```swift
 class LLNode<T> {
   var next: LLNode?
   var previous: LLNode?
@@ -110,6 +110,6 @@ printReverse(threeNode) { node in
     print("\(node!.value) -> nil")
   }
 }
-  ```
+```
   
 </details> 
