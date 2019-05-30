@@ -1,6 +1,6 @@
 ## Linked List Practice 
 
-Using the doubly linked below. Print the elements of the list in reverse. 
+1. Using the doubly linked below. Print the elements of the list in reverse. 
 
 Original list: 3 -> 8 -> 4 -> 1 -> nil 
 
@@ -101,7 +101,7 @@ oneNode.previous = fourNode
 fourNode.previous = eightNode
 eightNode.previous = threeNode
 
-print(threeNode)
+print(threeNode) // 3 -> 8 -> 4 -> 1 -> nil
 
 printReverse(threeNode) { node in
   if let _ = node?.previous {
