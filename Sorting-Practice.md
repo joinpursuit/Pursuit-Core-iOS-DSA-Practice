@@ -43,3 +43,70 @@
   ```
   
 </details> 
+
+</br> 
+
+<pre> 
+2. Sort a linked list using insertion sort.
+ 
+Algorithm of Insertion Sort:
+
+Insertion sort iterates, consuming one input element each repetition, and growing a sorted output list.
+At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there.
+It repeats until no input elements remain.
+
+Example 1:
+
+Input: 4->2->1->3
+Output: 1->2->3->4
+</pre> 
+
+<details> 
+ <summary>Solution</summary>
+ 
+ ```swift 
+ public class ListNode: Equatable {
+  public var val: Int
+  public var next: ListNode?
+  public init(_ val: Int) {
+    self.val = val
+    self.next = nil
+  }
+  static public func ==(lhs: ListNode, rhs: ListNode) -> Bool {
+    return lhs.next == rhs.next && lhs.val == rhs.val
+  }
+}
+
+extension ListNode: CustomStringConvertible {
+  public var description: String {
+    guard let _ = self.next else { return "\(val) -> nil" }
+    var result = "\(val) -> "
+    var currentNode = self.next
+    while let next = currentNode {
+      result += "\(next.val) -> "
+      currentNode = currentNode?.next
+    }
+    return result + "nil"
+  }
+}
+
+func insertionSortList(_ head: ListNode?) -> ListNode? {
+  guard let _ = head else { return nil }
+  var currentNode = head
+  while let _ = currentNode {
+    var node = head
+    while node != currentNode {
+      if currentNode!.val < node!.val {
+        let temp = currentNode!.val
+        currentNode?.val = node!.val
+        node?.val = temp
+      } 
+      node = node?.next
+    }
+    currentNode = currentNode?.next // iterate through the list
+  }
+  return head
+}
+ ```
+ 
+</details> 
