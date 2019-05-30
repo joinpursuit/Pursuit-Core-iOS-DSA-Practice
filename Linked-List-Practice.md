@@ -1,5 +1,6 @@
 ## Linked List Practice 
 
+<pre> 
 1. Using the doubly linked below. Print the elements of the list in reverse. 
 
 Original list: 3 -> 8 -> 4 -> 1 -> nil 
@@ -14,9 +15,7 @@ func printReverse<T>(_ list: LLNode<T>?, visit: (LLNode<T>?) -> Void) {
 printReverse(threeNode) { node in
   // print here
 }
-</pre> 
 
-<pre> 
 class LLNode<T> {
   var next: LLNode?
   var previous: LLNode?
@@ -54,6 +53,7 @@ fourNode.previous = eightNode
 eightNode.previous = threeNode
 
 print(threeNode)
+</pre> 
 
 <details> 
   <summary>Solution</summary> 
