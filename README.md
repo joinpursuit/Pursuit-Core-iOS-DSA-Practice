@@ -39,7 +39,6 @@ Set
 
 #### O(n ^ 2) Runtimes 
 [Bubblesort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
-[Selection sort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)  
 [Insertion sort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
 
 #### O(n log n) Runtimes 
