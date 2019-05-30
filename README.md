@@ -16,7 +16,7 @@ In-order traversal
 Post-order traversal   
 Pre-order traversal   
 
-## Abstract Data Structures 
+## Abstract Data Types (Structures) 
 
 Node  
 Linked List   
