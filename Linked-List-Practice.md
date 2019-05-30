@@ -109,7 +109,7 @@ printReverse(threeNode) { node in
   } else {
     print("\(node!.value) -> nil")
   }
-}
+} // 1 -> 4 -> 8 -> 3 -> nil
 ```
   
 </details> 
