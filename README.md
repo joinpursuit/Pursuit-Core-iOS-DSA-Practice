@@ -16,6 +16,11 @@ In-order traversal
 Post-order traversal   
 Pre-order traversal   
 
+## Swift Built-in Data Structures 
+Array  
+Dictionary  
+Set  
+
 ## Abstract Data Types (Structures) 
 
 [Node](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-14-linked-list)   
