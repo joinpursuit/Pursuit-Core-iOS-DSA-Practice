@@ -22,7 +22,7 @@ Node
 Linked List   
 Stack   
 Queue   
-Hashmap / HashTable   
+[Hashmap / HashTable](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-12-hash-table)
 General Tree   
 Binary Tree   
 Binary Search Tree   
