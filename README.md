@@ -52,3 +52,7 @@ Set
 
 [HackerRank](https://www.hackerrank.com/dashboard)    
 [LeetCode](https://leetcode.com/)    
+
+## Reading Resources 
+
+[Ray Wenderlich - Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)  
