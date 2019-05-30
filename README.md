@@ -18,8 +18,8 @@ Pre-order traversal
 
 ## Abstract Data Types (Structures) 
 
-Node  
-[Linked List](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-14-linked-list)    
+[Node](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-14-linked-list)   
+[Linked List](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-14-linked-list)      
 [Stack](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-15-dsa-stacks)     
 [Queue](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-02-dsa-queue)     
 [Hashmap / HashTable](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-12-hash-table)   
