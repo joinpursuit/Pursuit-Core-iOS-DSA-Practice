@@ -101,7 +101,7 @@ oneNode.previous = fourNode
 fourNode.previous = eightNode
 eightNode.previous = threeNode
 
-print(threeNode) // 3 -> 8 -> 4 -> 1 -> nil
+print(threeNode)
 
 printReverse(threeNode) { node in
   if let _ = node?.previous {
