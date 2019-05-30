@@ -47,3 +47,8 @@ Set
 
 ## Other 
 [Recursion: Dynamic Programming (Memoization)](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-07-recursion)  
+
+## Code Challenge Sites 
+
+[HackerRank](https://www.hackerrank.com/dashboard)    
+[LeetCode](https://leetcode.com/)    
