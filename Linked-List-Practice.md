@@ -1,5 +1,21 @@
 ## Linked List Practice 
 
+Using the doubly linked below. Print the elements of the list in reverse. 
+
+Original list: 3 -> 8 -> 4 -> 1 -> nil 
+
+Reverse list: 1 -> 4 -> 8 -> 3 -> nil 
+
+Function definition: 
+func printReverse<T>(_ list: LLNode<T>?, visit: (LLNode<T>?) -> Void) {
+  // code here
+}
+
+printReverse(threeNode) { node in
+  // print here
+}
+</pre> 
+
 <pre> 
 class LLNode<T> {
   var next: LLNode?
@@ -38,22 +54,6 @@ fourNode.previous = eightNode
 eightNode.previous = threeNode
 
 print(threeNode)
-
-Using the doubly linked list above. Print the elements of the list in reverse. 
-
-Original list: 3 -> 8 -> 4 -> 1 -> nil 
-
-Reverse list: 1 -> 4 -> 8 -> 3 -> nil 
-
-Function definition: 
-func printReverse<T>(_ list: LLNode<T>?, visit: (LLNode<T>?) -> Void) {
-  // code here
-}
-
-printReverse(threeNode) { node in
-  // print here
-}
-</pre> 
 
 <details> 
   <summary>Solution</summary> 
