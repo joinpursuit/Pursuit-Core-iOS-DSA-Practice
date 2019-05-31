@@ -49,6 +49,15 @@ Set
 [Recursion: Dynamic Programming (Memoization)](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-07-recursion)  
 String  
 
+## Mathematics 
+
+Factorial   
+Fibonacci   
+Prime Numbers
+Greatest Common Divisor 
+Permuations 
+Combinations   
+
 ## Code Challenge Sites 
 
 [HackerRank](https://www.hackerrank.com/dashboard)    
