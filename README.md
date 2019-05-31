@@ -52,11 +52,11 @@ String
 ## Mathematics 
 
 Factorial   
-Fibonacci   
-Prime Numbers
-Greatest Common Divisor 
-Permuations 
-Combinations   
+Fibonacci    
+Prime Numbers   
+Greatest Common Divisor   
+Permuations    
+Combinations    
 
 ## Code Challenge Sites 
 
