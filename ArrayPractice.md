@@ -57,7 +57,7 @@ Find the sum of all elements in a two dimensional, rectangular array except for 
 
 <br>
 
-##5. Problem Description
+## 5. Problem Description
 
 Given two sorted arrays, write a function that returns a single sorted list with all the elements from the inputs.  Your solution must work in O(n) time.
 
