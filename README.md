@@ -1,5 +1,5 @@
 # Pursuit-Core-iOS-DSA-Practice
-Swift DSA practice exercises.
+Swift Data Structures and Algorithms and practice exercises.
 
 # Weeks 
 
