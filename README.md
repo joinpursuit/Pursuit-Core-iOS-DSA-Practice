@@ -29,9 +29,9 @@ Post-order traversal
 Pre-order traversal   
 
 ## Swift Built-in Data Structures 
-Array  
-Dictionary  
-Set  
+[Array](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-07-arrays)     
+[Dictionary](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-10-dictionaries)  
+[Set](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-11-sets)     
 
 ## Abstract Data Types (Structures) 
 
@@ -59,7 +59,7 @@ Set
 
 ## Other 
 [Recursion: Dynamic Programming (Memoization)](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-07-recursion)  
-String  
+[String](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-06-strings)     
 
 ## Mathematics 
 
