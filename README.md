@@ -1,6 +1,11 @@
 # Pursuit-Core-iOS-DSA-Practice
 Swift DSA practice exercises.
 
+# Weeks 
+
+#### Week 1: Big O Notation, Recursion, Sorting Overview, ADT Overview, Diagnostic Test
+#### Week 2: 
+
 # Topics
 
 ## [Big O Notation](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-06-big-o-notation)
