@@ -69,6 +69,7 @@ Prime Numbers
 Greatest Common Divisor   
 Permuations    
 Combinations    
+Geometric Progression
 
 ## Code Challenge Sites 
 
