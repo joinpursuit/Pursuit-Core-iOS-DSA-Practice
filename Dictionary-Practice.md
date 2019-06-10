@@ -46,7 +46,9 @@ Output: "ifmmp xpsme"
 </br> 
 
 <pre> 
-2. You are given an array of dictionaries. Each dictionary in the array contains exactly 2 keys “firstName” and “lastName”. Create an array of strings called firstNames that contains only the values for “firstName” from each dictionary.
+2. You are given an array of dictionaries. Each dictionary in the array contains exactly 2 keys 
+“firstName” and “lastName”. Create an array of strings called firstNames that contains only the 
+values for “firstName” from each dictionary.
 
 Input: 
 var people: [[String:String]] = [
