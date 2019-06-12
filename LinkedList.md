@@ -13,18 +13,18 @@ Given the head node of a singly linked list, swap each pair of nodes and return 
 
 
 
-# 2. Remove Dups
+## 2. Remove Dups
 
 Write a function to remove duplicates from an unsorted linked list. 
 
 
-# 3. Second Largest
+## 3. Second Largest
 
 Create a function that finds the second largest number in a Linked List of Ints.
 
 1 -> 2 -> 9 -> 4 -> 5    answer: 9
 
 
-# 4 Reverse
+## 4 Reverse
 
 Create a function to reverse a Linked List
