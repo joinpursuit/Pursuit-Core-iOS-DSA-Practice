@@ -4,7 +4,7 @@
 
 ```swift
 struct StackArray<T> {
-  private var elements = [T]()
+  private var elements = [T]() // here we are using an array
   
   // count
   public var count: Int {
@@ -147,7 +147,7 @@ print(nums)
 
 ```swift
 struct StackLL<T: Equatable> {
-  private var elements = LinkedList<T>()
+  private var elements = LinkedList<T>() // using a Linked List
   
   public var count: Int {
     return elements.count
