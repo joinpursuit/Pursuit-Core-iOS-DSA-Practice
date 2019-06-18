@@ -33,7 +33,13 @@ this HashTable?
 </br> 
 
 <pre> 
-6. Find the Kth most Frequent Number in an Array.
+6. In a Hash Table how is the key converted to a number? 
+</pre> 
+
+</br> 
+
+<pre> 
+7. Find the Kth most Frequent Number in an Array.
  
  Example:
  
