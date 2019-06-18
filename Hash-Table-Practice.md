@@ -27,7 +27,7 @@ this HashTable?
 </br> 
 
 <pre> 
-5. What is a collision? 
+5. What is a collision and how can it be resolved? 
 </pre> 
 
 </br> 
