@@ -7,8 +7,8 @@
 </br> 
 
 <pre>
-2. Explain how hashtables work internally. How is hashcode generated and what wiill happen
-to hash code when 2 values are same.
+2. Explain how hashtables work internally. How is hashcode generated and what will happen
+to the hash code when 2 values are same.
 </pre> 
 
 </br> 
@@ -43,7 +43,7 @@ this HashTable?
  
  Example:
  
- let arr = [1, 2, 3, 2, 1, 2, 2, 2, 3]
+ let arr = [1, 2, 3, 2, 1, 2, 2, 2, 3, 3]
  k = 2
  Result: 3
  
