@@ -118,8 +118,8 @@ printReverse(threeNode) { node in
 
 <pre> 
 
-2. Given the head node of a singly linked list, swap each pair of nodes and return the head. If there is a last odd 
-node leave it in place.
+2. Given the head node of a singly linked list, swap each pair of nodes and return the head. 
+If there is a last odd node leave it in place.
 
 
 Sample
