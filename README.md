@@ -6,10 +6,10 @@ Swift Data Structures and Algorithms and practice exercises.
 #### Week 1: Big O Notation, Recursion, Sorting Overview, ADT Overview, Diagnostic Test
 #### Week 2: String, Array   
 #### Week 3: Dictionary, Set, Node, Linked List, Stack, Queue
-#### Week 4: Hash function, Hash map/Hash table, Trees
-#### Week 5: Binary Trees, Binary Search Tree, Heaps
-#### Week 6: Binary Search, Sorting, Graphs
-#### Week 7: Graphs, Problem sets
+#### Week 4: Hash function, Hash map/Hash table
+#### Week 5: Trees, Binary Trees, Binary Search Tree
+#### Week 6: Binary Search, Sorting Algorithms, Heaps
+#### Week 7: Graphs, Graphs
 #### Week 8: Problem sets 
 #### Week 9: Problem sets
 
