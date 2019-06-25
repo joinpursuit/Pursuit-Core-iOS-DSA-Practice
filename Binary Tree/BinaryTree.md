@@ -105,5 +105,5 @@ tenNode.postOrderTraversal { (node) in
 
 #### Exercise
 
-Write a function to find the height of the tree
+[Practice](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Binary%20Tree/Binary-Tree-Practice.md)
 
