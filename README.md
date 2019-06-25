@@ -40,7 +40,8 @@ Pre-order traversal
 [Stack](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-15-dsa-stacks)     
 [Queue](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-02-dsa-queue)     
 [Hashmap / HashTable](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-12-hash-table)   
-[General Tree](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit05/lesson-01-dsa-introduction-to-trees)   
+[General Tree](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit05/lesson-01-dsa-introduction-to-trees) 
+[Binary Tree](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Binary%20Tree/BinaryTree.md)   
 [Binary Search Tree](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit05/lesson-11-dsa-binary-search-tree)   
 
 ## Searching
