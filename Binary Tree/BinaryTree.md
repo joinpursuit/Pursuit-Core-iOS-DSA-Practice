@@ -3,7 +3,7 @@
 ## Objectives: 
 
  - what is a binary tree?
- - common types of binary trees: full, complete, perfect [reading](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)    
+ - common types of binary trees: full, complete, perfect  
  - implement a binary node
  - implement in-order traversal
  - implement pre-order traversal
@@ -27,6 +27,7 @@ Binary Tree: A tree whose elements have at most 2 children is called a binary tr
  ## Readings
  
  [Ray Wenderlich - Binary Tree](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Binary%20Tree)  
+ [GeekforGeeks - Types of Binary Trees](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)   
 
 
 ```swift
