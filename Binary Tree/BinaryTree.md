@@ -23,6 +23,10 @@ Binary Tree: A tree whose elements have at most 2 children is called a binary tr
  - post-order traversal: 4, 9, 2, 7, 11, 5, 10
  
  ![binary tree traversals](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Binary%20Tree/Images/binary-tree-traversals.jpg)
+ 
+ ## Readings
+ 
+ [Ray Wenderlich - Binary Tree](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Binary%20Tree)  
 
 
 ```swift
