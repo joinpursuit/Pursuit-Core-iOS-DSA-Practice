@@ -1,5 +1,6 @@
+### Problem 1.
 <pre> 
-1. Height of Binary Tree.
+Height of Binary Tree.
  The height of a binary tree is the number of edges between the tree's root and its furthest leaf. For example,
  the following binary tree is of height 2
  
@@ -43,8 +44,9 @@ func getHeight<T>(node: BinaryNode<T>?) -> Int {
 
 </br> 
 
+### Problem 2 
 <pre> 
-2.  Return the paths of a Binary Tree.
+Return the paths of a Binary Tree.
  
  
                 1
@@ -60,8 +62,9 @@ Output: [[1, 2, 3, 2], [1, 2, 6], [1, 3, 3], [1, 3, 1, 5], [1, 3, 1, 6]]
 
 </br> 
 
+### Problem 3
 <pre> 
-3. Validate BST.
+Validate BST.
 Implement a function to check if a binary tree is a binary search tree.
  
 Example 1. 
