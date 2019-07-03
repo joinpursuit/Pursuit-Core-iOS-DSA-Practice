@@ -13,6 +13,8 @@ O(1) -> O(n!) -> O(n ^ 2) -> O(n) -> O(log n) -> O(n log n) -> O(2 ^ n)
   
 </details> 
 
+</br>
+
 ### Problem 2 
 
 <pre>
@@ -36,6 +38,9 @@ Input: [1, 2, 7, 3, 9, 5]
 Output: 63
 </pre> 
 
+</br>
+
+
 ### Problem 4 
 
 <pre> 
@@ -54,6 +59,8 @@ Output:
 
 [1, 3, 4, 5, 6, 8, 10, 11, 12, 14, 15, 19, 31]
 </pre>
+
+</br>
 
 ### Problem 5 
 
@@ -87,6 +94,8 @@ A bracket is considered to be any one of the following characters: (, ), {, }, [
  NO
  YES
 </pre> 
+
+</br>
 
 ### Problem 6
 
@@ -134,6 +143,8 @@ Original list: 3 -> 8 -> 4 -> 1 -> nil
 Reverse list: 1 -> 4 -> 8 -> 3 -> nil
 </pre> 
 
+</br>
+
 ### Problem 7
 
 <pre> 
@@ -158,6 +169,8 @@ Result: 3
  
 Because '3' is the second most occurring element.
 </pre> 
+
+</br>
 
 ### Problem 9
 
@@ -184,11 +197,10 @@ numbers.enqueue(11)
 
 print(numbers)  // [8, 1, -23, 11]
 
-
-
-
 smallestElement(numbers) // -23
 </pre> 
+
+</br>
 
 ### Problem 10
 
