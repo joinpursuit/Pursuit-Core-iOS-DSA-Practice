@@ -22,7 +22,7 @@ Swift Data Structures and Algorithms and practice exercises.
 
 # Topics
 
-## [Big O Notation](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-06-big-o-notation)
+## [Big O Notation](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit02/lesson-06-big-o-notation)
 
 Time Complexity  
 Space Complexity  
@@ -36,34 +36,34 @@ Post-order traversal
 Pre-order traversal   
 
 ## Swift Built-in Data Structures 
-[Array](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-07-arrays)     
-[Dictionary](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-10-dictionaries)  
-[Set](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-11-sets)     
+[Array](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit01/lesson-07-arrays)     
+[Dictionary](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit01/lesson-10-dictionaries)  
+[Set](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit01/lesson-11-sets)     
 
 ## Abstract Data Types (Structures) 
 
-[Node](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-14-linked-list)   
-[Linked List](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-14-linked-list)      
-[Stack](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit02/lesson-15-dsa-stacks)     
-[Queue](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-02-dsa-queue)     
-[Hashmap / HashTable](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-12-hash-table)   
-[General Tree](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit05/lesson-01-dsa-introduction-to-trees)   
+[Node](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit02/lesson-14-linked-list)   
+[Linked List](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit02/lesson-14-linked-list)      
+[Stack](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit02/lesson-15-dsa-stacks)     
+[Queue](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit03/lesson-02-dsa-queue)     
+[Hashmap / HashTable](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit03/lesson-12-hash-table)   
+[General Tree](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit05/lesson-01-dsa-introduction-to-trees)   
 [Binary Tree](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Trees/BinaryTree.md)   
 [Binary Search Tree](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Trees/Binary-Search-Tree.md)   
 
 ## Searching
 
-[Binary Search](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit04/lesson-15-dsa-binary-search)     
+[Binary Search](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit04/lesson-15-dsa-binary-search)     
 
 ## Sorting Algorithms 
 
 #### O(n ^ 2) Runtimes 
-[Bubblesort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
-[Insertion sort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
+[Bubblesort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
+[Insertion sort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
 
 #### O(n log n) Runtimes 
-[Quicksort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Quicksort-Mergesort.md)   
-[Mergesort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Quicksort-Mergesort.md)   
+[Quicksort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/5_3/Quicksort-Mergesort.md)   
+[Mergesort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/5_3/Quicksort-Mergesort.md)   
 
 ## Other 
 [Recursion: Dynamic Programming (Memoization)](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-07-recursion)  
