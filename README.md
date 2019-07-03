@@ -15,8 +15,8 @@ Swift Data Structures and Algorithms and practice exercises.
 
 # Assessments
 
-#### DSA Assessmeent #1
-#### DSA Assessmeent #2
+#### [DSA Assessmeent #1](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Assessments/DSA-Assessment-1.md)
+#### [DSA Assessmeent #2](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Assessments/DSA-Assessment-2.md)
 #### DSA Assessmeent #3
 #### DSA Assessmeent Final
 
