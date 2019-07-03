@@ -132,3 +132,9 @@ Implement Quicksort and state the runtime and space complexity.
 Implement Merge Sort and give the runtime and space complexity. 
 </pre>
 
+### Problem 8
+
+<pre> 
+Implement Binary Search 
+</pre>
+
