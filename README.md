@@ -62,12 +62,12 @@ Pre-order traversal
 [Insertion sort](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit04/lesson-06-dsa-introduction-to-sorting-algorithms)   
 
 #### O(n log n) Runtimes 
-[Quicksort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/5_3/Quicksort-Mergesort.md)   
-[Mergesort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/5_3/Quicksort-Mergesort.md)   
+[Quicksort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Quicksort-Mergesort.md)   
+[Mergesort](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Quicksort-Mergesort.md)   
 
 ## Other 
-[Recursion: Dynamic Programming (Memoization)](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit03/lesson-07-recursion)  
-[String](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/master/units/unit01/lesson-06-strings)     
+[Recursion: Dynamic Programming (Memoization)](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit03/lesson-07-recursion)  
+[String](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit01/lesson-06-strings)     
 
 ## Mathematics 
 
