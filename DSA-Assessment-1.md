@@ -44,10 +44,13 @@ func scrambleString(input: String) -> String {
 }
 ```
 
-**Answer:**
-```
+<details>
+  <summary>Solution</summary>
+
 O(n)
-```
+
+</details> 
+
 
 ## Question 4
 
@@ -68,19 +71,23 @@ func infiltrate(array:[String]) -> [String] {
 
 ```
 
-**Answer:**
-```
+<details> 
+  <summary>Solution</summary>
+  
 O(1)
-```
+
+</details> 
 
 ## Question 5 
 
 ### Which sorting algorithm is faster: Bubble Sort or Merge Sort? 
 
-**Answer:**
-```
+<details> 
+  <summary>Solution</summary>
+  
 Merge Sort
-```
+
+</details> 
 
 ## Question 6
 
@@ -88,19 +95,23 @@ Merge Sort
 
 ![alg](assets/alg1.png)
 
-**Answer:**
-```
+<details> 
+  <summary>Solution</summary> 
+  
 Merge Sort
-```
+
+</details> 
 
 ## Question 7
 
 ### You are building a phonebook online.  You want users to search for a user and find their associated phone number.  What data structure what be best to model your data and why?
 
-**Answer:**
-```
+<details>
+  <summary>Solution</summary> 
+  
 Dictionary / HashMap / HashTable.  
-```
+
+</details> 
 
 ## Question 8
 
@@ -133,7 +144,8 @@ Console:
 -> 1 -> 2 -> 3 -> nil
 ```
 
-**Answer:**
+<details>
+  <summary>Solution</summary> 
 
 ```Swift
 func prettyPrint<T>(list: LinkedList<T>) {
@@ -147,6 +159,8 @@ func prettyPrint<T>(list: LinkedList<T>) {
     print(display)
 }
 ```
+
+</details> 
 
 ## Question 9
 
@@ -165,7 +179,8 @@ class Queue<T> {
 }
 ```
 
-**Answer:**
+<details> 
+  <summary>Solution</summary>
 
 ```Swift
 class Queue<T> {
@@ -190,6 +205,8 @@ class Queue<T> {
 }
 ```
 
+</details> 
+
 ## Question 10
 
 ### Describe the following:
@@ -208,7 +225,8 @@ hash(key: "Dean");  // 376
 hash(key: "Dane");  // 376
 ```
 
-**Answer:**
+<details> 
+  <summary>Solution</summary>
 
 ```
 A hash function is used to index the original value or key and then used later each time the data associated with the value or key is to be retrieved.
@@ -216,14 +234,20 @@ A hash function is used to index the original value or key and then used later e
 The major flaw with this Hash function is that Dean and Dane both give back the same value. So there would be a collision. 
 ```
 
+</details> 
+
 ## Question 11
 
 ### Name a LIFO data structure and explain how it works.
 
-**Answer:**
+<details> 
+  <summary>Solution</summary> 
+  
 ```
 A stack is a data structure in which elements use the Last-In-First-Out principle (LIFO). This structure limits data in the way that it can only be added to or removed from the top.
 ```
+
+</details> 
 
 ## Question 12
 
@@ -231,11 +255,14 @@ A stack is a data structure in which elements use the Last-In-First-Out principl
 
 ![lol](assets/animals.png)
 
-**Answer:**
+<details> 
+  <summary>Solution</summary>
 
 ```
 A Tree. It is useful because it can be very easily used to determine some sort of hierarchy.
 ```
+
+</details> 
 
 ## Question 13
 
@@ -253,7 +280,8 @@ print(fib(n: 3)) // 2
 print(fib(n: 4)) // 3
 ```
 
-**Answer:**
+<details> 
+  <summary>Solution</summary> 
 
 ```Swift
 func fibs(n: Int) -> Int {
@@ -267,6 +295,8 @@ func fibs(n: Int) -> Int {
     return fibs(n - 1) + fibs(n - 2)
 }
 ```
+
+</details> 
 
 ## Question 14
 
@@ -287,10 +317,13 @@ The pattern:
 5! = 5 * 4 * 3 * 2 * 1
 ```
 
-**Answer:**
+<details> 
+  <summary>Solution</summary> 
 
 ```Swift
 func factorial(n: Int) -> Int {
     return n == 0 ? 1 : n * factorial(n — 1)
 }
 ```
+
+</details> 
