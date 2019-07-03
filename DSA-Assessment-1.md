@@ -6,18 +6,16 @@
 
 <details>
   <summary>Solution</summary>
-```
+
 Big O Notation tells you how your function's runtime and required memory scales with input. Using this you can estimate how performant your code will be and how to improve.
-```
+
 </details> 
 
 ## Question 2
 
 ### Please rank the following Big-O functions from fastest to slowest:
 
-```
 O(n), O(n log n), O(1), O(n^2), O(2^n)
-```
 
 <details>
   <summary>Solution</summary>
