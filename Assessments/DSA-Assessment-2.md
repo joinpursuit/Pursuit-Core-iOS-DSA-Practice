@@ -18,7 +18,8 @@ O(1) -> O(n!) -> O(n ^ 2) -> O(n) -> O(log n) -> O(n log n) -> O(2 ^ n)
 ### Problem 2 
 
 <pre>
-Anagram: a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman.
+Anagram: a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed
+from iceman.
 
 Write a function that takes two Strings and returns true or false if it's an Anagram
 
@@ -30,7 +31,8 @@ Output: true
 ### Problem 3
 
 <pre> 
-Given an array of Ints, find the two numbers that when multiplied together give the greatest product, and return that product.
+Given an array of Ints, find the two numbers that when multiplied together give the greatest product, and
+return that product.
 
  (Links to an external site.)
 Input: [1, 2, 7, 3, 9, 5]
@@ -44,7 +46,8 @@ Output: 63
 ### Problem 4 
 
 <pre> 
-Given two sorted arrays, write a function that returns a single sorted list with all the elements from the inputs. Your solution must work in O(n) time.
+Given two sorted arrays, write a function that returns a single sorted list with all the elements from 
+the inputs. Your solution must work in O(n) time.
 
  (Links to an external site.)
 Input: 
@@ -177,7 +180,8 @@ Because '3' is the second most occurring element.
 <pre> 
 1) Implement a Queue using an Array
 
-2) Create an instance of the Queue and populate it with integers and write a function called smallestElement() that returns the smallest element in a given Queue. 
+2) Create an instance of the Queue and populate it with integers and write a function called 
+smallestElement() that returns the smallest element in a given Queue. 
 
 Input: [8, 1, -23, 11]
 
@@ -205,5 +209,6 @@ smallestElement(numbers) // -23
 ### Problem 10
 
 <pre> 
-Explain how hashtables work internally. How is hashcode generated and what will happen to the hash code when 2 values are same.
+Explain how hashtables work internally. How is hashcode generated and what will happen to the hash 
+code when 2 values are same.
 </pre> 
