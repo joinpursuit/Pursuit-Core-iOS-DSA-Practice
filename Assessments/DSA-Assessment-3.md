@@ -107,3 +107,28 @@ v1 = 1 and v2 = 7
 Output:
 4
 </pre> 
+
+</br> 
+
+### Problem 5
+
+<pre> 
+Implement Bubble Sort and state the runtime and space complexity. 
+</pre>
+
+</br> 
+
+### Problem 6
+
+<pre> 
+Implement Quicksort and state the runtime and space complexity. 
+</pre>
+
+</br>
+
+### Problem 7
+
+<pre> 
+Implement Merge Sort and give the runtime and space complexity. 
+</pre>
+
