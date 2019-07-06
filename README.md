@@ -9,9 +9,9 @@ Swift Data Structures and Algorithms and practice exercises.
 #### Week 4: Hash function, Hash map/Hash table, DSA Assesment #2
 #### Week 5: Trees, Binary Trees, Binary Search Tree
 #### Week 6: Binary Search, Sorting Algorithms, DSA Assesment #3
-#### Week 7: Heaps, Graphs, Graphs
-#### Week 8: Problem sets, DSA Assesment Final
-#### Week 9: Problem sets
+#### Week 7: Heap, Priority Queue, Graph
+#### Week 8: Graph,Problem sets
+#### Week 9: Problem sets, DSA Assesment Final
 
 # Assessments
 
