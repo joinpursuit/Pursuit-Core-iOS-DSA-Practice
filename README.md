@@ -49,10 +49,10 @@ Pre-order traversal
 [Hashmap / HashTable](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit03/lesson-12-hash-table)   
 [General Tree](https://github.com/joinpursuit/Pursuit-Core-iOS/tree/5_3/units/unit05/lesson-01-dsa-introduction-to-trees)   
 [Binary Tree](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Trees/BinaryTree.md)   
-[Binary Search Tree](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Trees/Binary-Search-Tree.md)
-[Heap](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Heap)
-[Priority Queue](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Priority%20Queue)
-[Graph](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Graph)
+[Binary Search Tree](https://github.com/joinpursuit/Pursuit-Core-iOS-DSA-Practice/blob/master/Trees/Binary-Search-Tree.md)  
+[Heap](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Heap)  
+[Priority Queue](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Priority%20Queue)   
+[Graph](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Graph)   
 
 ## Searching
 
