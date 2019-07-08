@@ -1,7 +1,7 @@
 import Foundation
 
 /* Heap: a binary tree inside and array, sorted either via a max-heap or min-heap
-         the heap property keep the structure valid either through shift up or shift down
+         the heap property keeps the structure valid either through shift up or shift down
 */
 
 struct Heap<T> {
