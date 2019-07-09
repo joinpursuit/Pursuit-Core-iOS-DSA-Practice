@@ -2,8 +2,9 @@
 
 #### Problem 1 
 
-<pre> 
 Building Heap from Array
+
+<pre> 
 Given an array of N elements. The task is to build a Binary Heap from the given array. The heap can be either Max Heap or Min Heap.
 
 Example
