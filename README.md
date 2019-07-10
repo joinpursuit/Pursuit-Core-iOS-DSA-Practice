@@ -29,8 +29,8 @@ Space Complexity
 
 ## Algorithms 
 
-Breadth-first search   
-Depth-first search   
+[Breadth-first search](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Breadth-First%20Search)   
+[Depth-first search](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Depth-First%20Search)   
 In-order traversal    
 Post-order traversal   
 Pre-order traversal   
