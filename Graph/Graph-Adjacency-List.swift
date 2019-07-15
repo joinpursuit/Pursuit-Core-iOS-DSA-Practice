@@ -153,3 +153,23 @@ print("\n")
 if let price = airlineFlights.weight(from: tokyo, to: washingtonDC) {
   print("The Ticket price from Tokyo to DC is $\(price)")
 }
+
+/*
+Adjacency List Graph Implementation (Airline Flights):
+=======================================================
+Seattle --> [San Francisco, Washington DC]
+Austin Texas --> [Detroit, San Francisco, Washington DC]
+Singapore --> [Tokyo, Hong Kong]
+Tokyo --> [Singapore, Detroit, Hong Kong, Washington DC]
+Washington DC --> [Tokyo, San Francisco, Seattle, Austin Texas]
+San Francisco --> [Hong Kong, Washington DC, Seattle, Austin Texas]
+Hong Kong --> [Singapore, Tokyo, San Francisco]
+Detroit --> [Tokyo, Austin Texas]
+
+
+
+Flights from San Francisco: 
+Hong Kong, Washington DC, Seattle, Austin Texas 
+
+The Ticket price from Tokyo to DC is $300.0
+*/
